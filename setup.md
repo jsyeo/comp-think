@@ -1,5 +1,7 @@
 # Setting up DrRacket
 
+![lol](http://3.bp.blogspot.com/-iF3Ymn0CTls/UO7YnFfmgvI/AAAAAAAABTQ/ZybtUi4wIFQ/s1600/An059.gif)
+
 ## Download DrRacket
 
 Simply go to http://download.racket-lang.org/ and click on the button
